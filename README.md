@@ -1,2 +1,2 @@
 # hello-world
-Git 공부용
+Git 및 GitHub 공부용
