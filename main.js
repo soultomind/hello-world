@@ -1,3 +1,3 @@
 function main() {
-    console.log("Main")
+    console.log("Call Main");
 }
