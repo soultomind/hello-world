@@ -22,4 +22,18 @@ https://velog.io/@archivvonjang/Git-Commit-Message-Convention
 
 # Reset
 장점 : 쉽다.
-단점 : 커밋이 날아간다. 그리고 강제 푸시가 필요하다.
+단점1 : 커밋이 날아간다.
+단점2 : 강제 푸시가 필요하다.
+
+# Visual Studio 충돌 해결
+Accept Current Change
+- Current 브랜치 내용으로 적용
+
+Accept Incoming Change
+- Incoming 브랜치 내용으로 적용
+
+Accept Both Change
+- Current, Incoming 합쳐서 적용
+
+Compare Change
+- 사용법 숙지 필요
