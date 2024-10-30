@@ -19,3 +19,7 @@ https://velog.io/@archivvonjang/Git-Commit-Message-Convention
 
 # Push
 의미: 원격 저장소에 커밋을 업로드한다.
+
+# Reset
+장점 : 쉽다.
+단점 : 커밋이 날아간다. 그리고 강제 푸시가 필요하다.
